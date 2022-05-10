@@ -1,0 +1,6 @@
+flask-cors
+requests
+numpy
+pandas
+pathlib
+sklearn
